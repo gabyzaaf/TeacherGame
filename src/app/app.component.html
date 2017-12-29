@@ -1,0 +1,16 @@
+<!--The content below is only a placeholder and can be replaced.-->
+
+
+  
+  {{teacherGameObject[step].txt}}
+ 
+  <button *ngFor="let choice of teacherGameObject[step].choix"
+    (click) = "goToNextStep(choice[1])">
+    {{choice[0]}}
+  </button>
+
+  <p>
+    {{teacherGameObject[step].id}}
+  </p>
+
+

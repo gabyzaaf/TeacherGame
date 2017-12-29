@@ -1,0 +1,197 @@
+[
+    {
+        "id" : 0,
+        "img": "http://www.nioutaik.fr/images/heros/heros0.jpg",
+        "txt": "Vous êtes un(e) jeune professeur de mathématiques nouvellement intégré au Lycée Osantiano, un établissement réputé difficile, plein d’élèves qui n’ont pas de respect qui change l’école dedans leur corps. Cela ne vous fait pas peur, votre truc, ce sont les sensations fortes et après avoir longuement hésité entre devenir dresseur de serpents sourds ou pilote de F1 acrobatique, vous vous êtes souvenu que l’éducation nationale, c’est un peu comme Bagdad : on envoie les jeunes au casse pipe dans les coins chauds pendant que les responsables glandent peinard, bref, la carrière de vos rêves. Votre premier cours sera l’instant de vérité, point de départ d’une carrière grandiose ou échec aux dimensions épiques ? A vous de décider !",
+        "choix": [
+            ["Commencer", 1]
+        ]
+    },
+    {
+        "id" : 1,
+        "img": "http://www.nioutaik.fr/images/heros/heros12.jpg",
+        "txt": "'L’école, l’école ne change jamais !' pensez vous en vous dirigeant vers votre salle de classe au milieu de hurlements d’élèves hystériques. En dépit de votre détermination, le diamètre de votre boule au ventre augmente de façon inversement proportionnel à la distance qu’il vous reste à parcourir. Les paroles de vos nouveaux collègues vous reviennent en mémoire et ne font rien pour vous rassurer.'Rhô les salauds, ils t’ont filés la classe 3F ! Mouhahahahaha ! Crois moi, la lettre F n’a pas été choisi au hasard, on l’appelle la classe Fuca ! Tu vas en chier !''A ce point là ?', demandez vous légèrement inquiet.'Pire ! De base dans ce lycée c’est déjà pas les plus brillant de la portée mais là ils t’ont collés tous ceux qui ont été bercés scotchés à un marteau piqueur. Conseil d’ami, si tu compte la jouer remake du cercle des poètes disparus évites Baudelaire et prend du Booba avec deux trois biatch dénudés en renfort ! Ahahahahahaha'.Perdu dans vos pensées, vos pas vous ont emmené mécaniquement au pied de votre salle de classe. De nombreux cris, proches du couinement de marcassins cocaïnomanes en manque, résonnent derrière la porte fermée. Vous posez une main légèrement tremblante sur la poignée tout en serrant nerveusement la lanière en cuir de votre sacoche. La première impression est primordiale, ce n’est pas le moment de vous rater !",
+        "choix": [
+            ["vous voulez entrer en mode bourrin", 9],
+            ["vous voulez la jouer décontracté", 13],
+            ["vous voulez faire une entrée 'comique'", 6]
+        ]
+    },
+    {
+        "id" : 2,
+        "img": "http://www.nioutaik.fr/images/heros/heros9.jpg",
+        "txt": "Vous empoignez le téléphone qui continue de brailler sa sonnerie à donner des envies de meurtre à Gandhi sous sédatif c’est vachement zen un cadavre anesthésié, et vous le balancez de toutes vos forces à travers la fenêtre la plus proche. Dans votre précipitation, vous avez oublié d’ouvrir la dite fenêtre et c’est dans un grand bruit d’éclats de verre que l’appareil part en vol plané à l’extérieur 'MIIIIIIIiiiiignnooooooooooon'. *POC*. <br/> POC ?<br/>Un détail cloche. Vous vous approchez de la fenêtre cassée pour vous rendre compte que… vous êtes au rez de chaussée ! Les 30cm de chute n’ont pas suffit à faire taire le téléphone qui continue à débiter son hymne aux grosses taupes de mayrde ! De plus en plus énervé, vous sautez par la fenêtre sous les vivats des élèves. A pieds joints vous vous acharnez sur l’appareil en beuglant 'Tuuuuuu vas te taire taire taire !!' sur l’air de Renée la Taupe parce que mine de rien, cette chiasse, ça reste. Vous ne vous arrêtez qu’après être bien certain que chaque atome du téléphone a été broyé et, en prenant l’air le plus dégagé possible, vous retournez dans votre classe en enjambant la fenêtre. A part pour celui qui vient de perdre son portable qui est au bord des larmes, vous notez une lueur d’admiration et un peu de crainte au fond des yeux de vos élèves. C’est avec un sourire satisfait que vous reprenez la leçon",
+        "choix": [
+            ["Continuer", 21]
+        ]
+    },
+    
+    {
+        "id" : 3,
+        "img": "http://www.nioutaik.fr/images/heros/heros15.jpg",
+        "txt": "Vous faites semblant de ne pas être gêné par le bruit et reprenez, impassible, la rédaction de votre cours au tableau. '1.1 - Le Logarithme Népérien : pourquoi c’est cool ?'. Le brouhahaha dans votre dos s’amplifie et des projectiles commencent à percuter le tableau. Vous vous crispez légèrement mais vous n’en laissez rien paraître car vous savez que l’adolescent, comme le chacal, peut sentir la peur chez sa proie. '1.2 – Le scandale du logarigate et son impact sociologique sur les années folles.', la crispation de votre main sur la craie vous fait écrire de plus en plus mal, il faut vous ressaisir, vous n’êtes pas un médecin et vous n’êtes pas en train de faire une ordonnance ! Le bruit continue de s’amplifier et les projectiles qui percutent votre dos sont de plus en plus nombreux. Vous comprenez mieux maintenant pourquoi Boudha était gros, le gras amorti les projectiles, ça aide à garder sa zenitude. <br/> Vous faites une dernières tentative de non réaction '1.3 – La Logan Rithme de Renault, nouvelle voiture de pauvre en plastique ou affaire du siècle ?', mais rien n’y fait et l’anarchie s’installe comme si votre classe était devenue une dictature du Moyen-Orient.",
+        "choix": [
+            ["Vous puisez toujours plus profondément dans vos réserves de zénitude pour continuer votre cours comme si de rien n’était", 12],
+            ["Vous tentez l’opération de la dernière chance en organisant une diversion", 19]
+        ]
+    },
+    {
+        "id": 4,
+        "img": "http://www.nioutaik.fr/images/heros/heros4.jpg",
+        "txt": "Il est grand temps d’utiliser votre arme secrète, la technique millénaire de la craie, transmise de générations de profs à générations de profs. Les conseils de votre formateur vous reviennent en mémoire 'Tu vois, les élèves, c’est comme les phacochères argentins : moches, bruyants et complètement débiles'. Décidemment, votre cerveau n’a jamais été très doué pour sélectionner des souvenirs pertinents, mais, peut importe, vous n’avez plus besoin des conseils de votre mentor, vous pourriez appliquer cette technique les yeux fermés. Alors que les couinements et autres chuchotis s’amplifient dans la classe, imperturbable, vous reprenez la rédaction de votre cours '1.1 - Le Logarithme Népérien de 1930 à nos jours' sauf que, cette fois-ci, vous prenez grand soin d’appuyer fortement sur la pointe de la craie. Le bruit strident produit est atroce mais vous vous en fichez, vous vous êtes entrainé de longs mois en écoutant en boucle l’intégral d’Hélène Ségara. Miracle, le bruit dans la classe se calme, les élèves sont bien trop occupés à se boucher les oreilles. Vous poursuivez en écrivant normalement '1.2 – Le Logarithme et son implication dans la révolte du Pérou oriental.', et, presque automatiquement, les bruits reprennent de plus belle dans la classe.Qu’à cela ne tienne, vous reprenez l’écriture stridulante pour calmer leurs ardeurs '1.3 – La thermodynamique du Logarithme'. L’idée est de leur faire associer leur boucan à la douleur, pour que, par réflexe, ils aient peur de souffrir dès qu’ils ouvrent la bouche. Après quelques minutes à ce régime, l’association semble s’être faite dans la tête de vos élèves et le calme règne. Vous poursuivez tranquillement votre leçon",
+        "choix": [
+            ["rendez vous au 11.", 11]
+        ]
+    },
+    {
+        "id": 5,
+        "img": "http://www.nioutaik.fr/images/heros/heros7.jpg",
+        "txt": "Pour asseoir encore plus votre avantage psychologique sur la classe, vous commencez à arpenter de long en large les rangées de tables sous le regard terrifié des élèves. 'Vous n’êtes que des merdes ! Vous êtes même tous tellement merdique que vous avez du être chié par une merde ! *PAUSE* De chien ! *PAUSE* Malade ! *PAUSE* De l’anus ! Dans ma grande bonté, j’ai accepté de supporter votre pestilence pour vous apprendre l’art merveilleux des chiffres et comment vous me remercier ? En beuglant comme des truies dès que j’ai le dos tourné ! Vous n’êtes rien et je vous offre tout, je vais faire de vous des calculatrices vivantes, plus aucune multiplication n’aurait de secret pour vous et vous passerez ainsi du rang de chiasse humaine à sous hommes, je ne peux pas faire de miracles non plus !'.Vous vous approchez d’un élève qui sourit à votre discours. Vous le chopez à deux mains par le cou et approchez votre visage à quelques millimètres du siens. En postillonnant autant que possible vous beuglez :<br/>'Alors tu fais le mariole espèce de petite déjection de fennec ?? Tu te croit plus malin ?!! Mais tu es une diarrhée comme les autres ! Répètes après moi : je suis une merde mais j’aime les maths !'<br/>'Veu fui une merde mais vaime les mafs' répète l’élève à moitié en train de se noyer dans vos crachats<br/>'Plus fort !!'<br/>Emporté dans votre élan, vous n’avez pas remarqué une présence qui vous observe depuis quelques minutes dans l’encadrement de la porte. Le proviseur, alerté par votre explosion de porte, est venu voir ce qu’il se passait ! 'Lâchez tout de suite cet élève !!'. Visiblement, il n’est pas très satisfait de vos méthodes d’enseignement révolutionnaire. Encore une chochotte, pensez vous. 'Nous ne sommes pas à l’armée ici ! Venez dans mon bureau tout de suite !!'. Ces mots résonnent comme une révélation et vous répondez : 'Vous avez parfaitement raison ! Ma place n’est pas ici ! Je vais m’engager dans l’armée et votre bureau vous pouvez vous le mettre dans l’anus même si c’est anatomiquement impossible espèce de lavette !!'. A ces mots, vous sortez de la classe comme un prince sous les vivats des élèves ! Vous avez le cœur serein car vous avez enfin trouvé votre véritable destin ! GAME OVER quand même parce que c’est un 'cours dont VOUS êtes le héros', pas 'le service militaire dont VOUS êtes le héros'. Faut suivre un peu namého !!1",
+        "choix": [
+            ["recommencer.", 1]
+        ]
+    },
+    {
+        "id": 6,
+        "img": "http://www.nioutaik.fr/images/heros/heros3.jpg",
+        "txt": "Vous n’êtes pas adepte de la violence, vous préférez bâtir une relation décontracté avec vos futures élèves et pour cela, quoi de mieux qu’un brin d’humour ? Bien sur, être drôle n’est pas donné à tout le monde, vous en êtes bien conscient, malgré tout, vous êtes très confiant dans vos capacités. Votre petit neveu de 5 ans vous trouve hilarant donc, il n’y a aucune raison pour que votre humour décapant ne fonctionne pas parfaitement sur une classe pleine d’individus ayant un âge mental à un chiffre. Prenant votre courage à une main et votre sacoche dans l’autre, vous ouvrez grand la porte. Histoire de faire une entrée en fanfare, vous vous jetez en glissade sur les genoux jusqu’au milieu de la pièce en criant 'Whiiiiiiiiiiiz'. C’est bon, vous avez réussi à capter l’attention de votre public, il faut enchainer pour ne pas laisser retomber l’émerveillement. Vous vous approchez d’un élève et vous agrippez son nez entre votre index et votre majeur. Vous retirez votre main en tirant légèrement sur le nez de l’élève avant de placer votre pouce entre vos doigts. Grâce à cet habile stratagème, l’illusion d’avoir volé son nez est parfait. 'Il est ou le neznez ?? Il est ou ?'. Etrangement, votre 'victime' ne réagit absolument pas comme votre neveu. Il y a bien quelques gloussement au fond de la salle mais a part ça, rien. Le public est difficile mais vous n’êtes pas du genre à vous décourager facilement ! Vous vous précipitez derrière votre bureau pour le clou du spectacle. Vous lancez à la cantonade 'ça alors, il y a une cave sous le bureau !' et vous avancez latéralement derrière en vous accroupissant progressivement à chaque pas. La encore, l’illusion d’être face à un véritable escalier est parfaite ! Malheureusement, votre prestation laisse tout le public dans un profond état d’hébétement. Tout le public ? Non, au premier rang un élève lance : 'Qui est cet enfant illégitime ? Va donc faire l’amour à ton groupe ethnique !' (Traduction en bon Français pour le confort des lecteurs de 'Vazy c’est qui ce bâtard ? Va niquer ta race !'). A ces mots, la classe éclate de rire.",
+        "choix": [
+            ["vous voulez exercer de la violence physique à l’encontre de l’élève moqueur", 15],
+            ["vous voulez exercer de la violence morale à l’encontre de l’élève moqueur", 20],
+            ["vous préférez l’ignorer totalement et enchainer avec votre cour maintenant que vous avez capté l’attention de la classe", 17]
+        ]
+    },
+    {
+        "id": 7,
+        "img": "",
+        "txt": "Vous devez agir vite pour bien montrer à tous ces morveux que l’humour n’est pas un sujet de plaisanterie ! Vous hélez le comique troupier de la classe. 'Ah ah ah, Logarithme népérien pour attendre, hilarant, vraiment ! Tu sais qui aimait ce genre de blague pourries ?' 'Euh, non, lol' répond l’élève quelque peu surpris par le ton glacé de votre voix 'Les Nazis !!!!!1 Alors tu vas me faire plaisir d’arrêter tout de suite l’humour de merde !!1 As-tu la moindre idée du nombre d’hommes et de femmes qui ont donnés leur vie pour que le Logarithme soit pris au sérieux ?' 'Euh', l’élève est clairement ébranlé par vos propos. 'Moi non plus mais je trouvais que ça sonnait bien !!!'. Vous parcourez le reste de la classe de votre regard le plus noir. 'Si je reprends l’un d’entre vous à faire une blague moisi de cet acabit je le mettrais moi même dans un train direction la douche Polonaise ! Pigés !'. Le calme est rétabli et vous sentez un malaise presque palpable émaner de la classe. Parfait, un élève qui a peur est un élève qui ne fait pas de bruit. Vous pouvez reprendre votre cours sereinement.",
+        "choix": [
+            ["continuer", 11]
+        ]
+    },
+    {
+        "id": 8,
+        "img": "http://www.nioutaik.fr/images/heros/heros17.jpg",
+        "txt": "Comme l’élève s’est dénoncé, vous décidez de vous montrer magnanime. Vous prenez son téléphone des mains 'confisqué jusqu’à la fin du cours' et vous le posez bien en évidence sur votre bureau. L’incident clos, vous retournez au tableau. Alors que vous inscrivez 'This is the logarythm of the night, oh yeah', le portable sur votre bureau hurle à nouveau son horrible sonnerie 'Je suiiiiiiIIIIIIIIIIIIS…'. La crispation vous fait casser votre craie et des envies de meurtre traversent votre esprit. Vous parvenez à vous contenir de justesse.",
+        "choix": [
+            ["vous décrochez le téléphone", 14],
+            ["vous préférez le balancer par la fenêtre pour arrêter la souffrance", 2]
+        ]
+    },
+    {
+        "id": 9,
+        "img": "http://www.nioutaik.fr/images/heros/heros1.jpg",
+        "txt": "Pour ne pas vous faire marcher sur les pieds tout le reste de l’année, vous décidez de frapper vite et fort. Le film 300 vous reviens en mémoire, enfin surtout les corps musculeux luisant d’huiles faisant ressortir les pectoraux saillants et palpitants de désir des guerriers spartes petit coquinou, et vous optez pour la solution 'Léonidas'. Vous posez votre pied droit sur la porte et, d’un coup sec, vous l’ouvrez en arrachant la moitié de la serrure. Sous la violence du choc, la porte vient claquer un grand coup contre le mur opposé qui vibre sous l’impact. Il n’y a plus un seul bruit dans la classe. Poussant votre avantage, vous saisissez à deux main votre sacoche en cuir et la jetez violement à travers la salle en beuglant 'Fermez vos mouilles les pélots !!'. D’un pas conquérant, vous avancez jusqu’à votre bureau sous le regard éberlué des élèves. Notant que l’un d’eux arbore un petit sourire narquois au premier rang, vous le chopez par le col et le faite passer par dessus son bureau. L’agrippant toujours fermement, vous le trainez jusqu’à la porte et le balancez dans le couloir d’un grand moulinet du bras. 'Dans le bureau du proviseur pour insolence, TOUT DE SUITE !!!1' 'Mais, mais, je n’ai rien fait', gémit l’élève étalé par terre, sous le choc. 'Ah ouais ? Ca sera ta parole contre la mienne et crois moi, j’ai le bras long, j’arrive à toucher le bout de mon gigantesque sexe sans plier les genoux !!!1'A ces mots, vous braquez votre regard sur le reste de la classe. 'Ca pose un problème à quelqu’un ???'. On pourrait entendre une fourmi manchot jouer des maracas. Satisfait, vous vous installez à votre bureau." ,
+        "choix" : [
+            ["vous voulez continuer en mode bourrin avant de commencer la leçon", 5],
+            ["vous préférez vous décrisper un peu et démarrer la leçon du jour", 17]
+        ]
+    },
+    {
+        "id": 10,
+        "img": "http://www.nioutaik.fr/images/heros/heros21.jpg",
+        "txt": "Histoire de créer un début de connivence, vous décidez d’enchaîner sur la blague pourrie de votre élève.  'Vu que vous avez l’air d’apprécier les blagues, en voici une bonne ! C’est la grosse teuf dans le monde des mathématiques, tout le monde est la, Addition, Soustraction, même Logarithme. Il y a de la musique qui fait boumboum, du banga et des michokos en open bar, bref, tous les ingrédients d’une soirée réussie. Mais, malgré ça, tout au fond de la pièce, Exponentiel reste seul à déprimer sur un banc. Voyant ça, Logarithme, Division et plusieurs de leurs potes viennent voir ce qu’il se passe. 'Bah alors, pourquoi tu déprimes, viens t’amuser avec nous'. Exponentiel lève alors vers eux son regard tout triste et répond d’une voix morne 'Oh moi vous savez, que je m’intègre ou pas de toute façon ça ne change rien''. A ces mots vous éclatez de rire comme un hystérique. 'Elle est géniale non ??'. Visiblement, non. Vous avez surestimé leurs connaissances mathématiques et vous vous maudissez de ne pas avoir choisi une blague pipi caca à la place. Le mal est fait et la classe est plus hystérique et inattentive que jamais." ,
+        "choix" : [
+            ["vous laissez faire et reprenez votre cours comme si de rien n’était", 12],
+            ["vous voulez utiliser la technique de la craie", 4],
+            ["vous tentez l’opération de la dernière chance en organisant une diversion", 19]
+        ]
+    },
+    {
+        "id": 11,
+        "img": "http://www.nioutaik.fr/images/heros/heros11.jpg",
+        "txt": "Malgré le calme apparent, vous êtes nerveux. La moindre distraction, la moindre erreur peut plonger votre classe dans l’anarchie et vous commencez à être en pénurie de solutions miracles. Vous secouez la tête, comme pour chasser vos idée noires et écrivez 'Logarithme contre boite à rythme, le test comparatif'.  Cela fait quelques minutes que vous gribouillez au tableau sans être interrompu. Vous commencer à vous détendre et votre geste est plus assuré 'Loga Loga Loga rithme, le témoignage poignant de Shakira'. Malheureusement, votre répit est de courte durée et une sonnerie, ou plutôt un morceau de musique de mayrde propulsé par une enceinte 0.0005 Watt qui sature, résonne dans la classe 'je suis miiiiiiiiiiIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIgnon mignon mignon gnon gnon'. Renée la taupe !  'Je vaiiiiiiiiIIIIIIIIIIs mettre un gnon gnon gnon au propriétaire de ce portable s’il ne se dénonce pas TOUT DE SUITE', hurlez vous, presque par réflexe, tellement le morceau choisi vous donne envie de peler des chiots mignons. Une main se lève timidement dans le fond de la salle.  'C’est le mien, désolé ! Je l’avais prêté à ma sœur et elle me la rendu tout humide et poisseux alors j’avais cru qu’elle l’avait laissé sur vibreur, si vous voyez ce que je veux dire'. L’élève illustre sa répartie d’un clin d’œil graveleux.  Le reste de la classe part dans un grand éclat de rire." ,
+        "choix" : [
+            ["vous voulez balancer le téléphone par la fenêtre", 2],
+            ["vous préférez simplement confisquer le téléphone", 8],
+            ["vous voulez laisser passer pour cette fois, après tout, l’excuse est convaincante", 21]
+        ]
+    },
+    {
+        "id": 12,
+        "img": "http://www.nioutaik.fr/images/heros/heros6.jpg",
+        "txt": "Vous vous obligez à reprendre votre cours en faisant abstraction du bordel ambiant. Interprétant votre inaction comme une autorisation, vos élèves passent au cran supérieur. Le bruit de la classe atteint des niveaux de turbines d’avion remplies de verre pilé et lancés à plein régime dans un champs de gravier, c’est insupportable mais vous tenez bon…  …pendant quelques secondes car, lorsque les élèves commencent à jeter chaises et tables à travers la classe, vos nerf lâchent. Toute la rage accumulée, toute votre haine enfouie sous des monceaux de zénitude resurgie en flots incontrôlables tel un ras de marée de pure violence. Vos sens et votre force sont exacerbés par cet afflux de rage. Vous voyez le monde comme si celui-ci tournait au ralenti. Vous vous sentez invincible, vous ETES invincible ! Tout en esquivant avec facilité les petits projectiles que l’on vous jette au visage, vous repérez un élève en train de balancer sa table dans votre direction. Vous poussez un hurlement rauque de possédé. En prenant appui sur votre bureau, vous vous propulsez dans les airs pour intercepter le mobilier-projectile. Vous parvenez à agripper un des pied avec votre main et, profitant de son inertie, vous faites un tour sur vous même pour retourner l’objet à l’envoyeur avec une puissance décuplée ! L’impact est dévastateur, des élèves sont projetés de toute part et certains, blessés, commencent à gémir 'il faut que j’aille à l’infirmerie monsieur, mdr xD !'. Vous n’entendez pas leurs plaintes, la pulsation du sang dans vos tempes est assourdissante et vous cherchez déjà une autre cible sur laquelle déverser votre hargne.    Vous ressentez une vive douleur dans votre dos. Vous faites volte face, bien décidé à punir dans le sang le mécréant qui a osé s’en prendre à vous. Votre agresseur est un homme en blouse blanche armé d’un étrange fusil. Vous vous apprêtez à lui foncer dessus quand vos jambes se dérobent sous vos pas. Vous vous effondrez de tout votre long, incapable de bouger. L’homme à la blouse s’approche et murmure à votre oreille :  'Voilà, tout doux. C’est fini maintenant, tout va bien se passer. Un gentil monsieur en blouse blanche comme moi va vous mettre un joli gilet avec les manches qui s’attachent dans le dos. Ensuite on vous amènera dans une chambre rigolote avec des coussins tout partout, même au plafond.'  Incapable de résister plus longtemps au somnifère que l’on vous a injecté, vous plongez dans les abîmes du sommeil. GAME OVER." ,
+        "choix" : [
+            ["recommencer", 1]
+        ]
+    },
+    {
+        "id": 13,
+        "img": "http://www.nioutaik.fr/images/heros/heros11.jpg",
+        "txt": "Vous ne voyez aucune raison de faire dans la surenchère pour votre premier contact avec votre classe. Après tout, première impression ou pas, ils finiront bien par connaître votre vraie personnalité pendant l’année, alors à quoi bon ? C’est donc, aussi serein que possible que vous ouvrez. Sans le filtre de la porte, le bruit à l’intérieur de la pièce est assourdissant 'ils ont bouffés une rave party ou quoi ??!!'. Ce n’est pas le moment de vous laisser démonter et vous allez, toujours aussi calmement, vous installer à votre bureau. Une fois assis vous tentez un 'Bonjour tout le monde, je suis votre nouveau professeur de mathématique'. Faire un signe de la main à Gilbert Montagné aurait été plus efficace. Personne ne fait mine de remarquer votre présence. Il faut vous rendre à l’évidence, pour cette classe de mongolo il va falloir faire plus qu’être décontracté pour obtenir des résultats. Vous ressortez de la classe sans qu’un seul élève ne se retourne vers vous, bien trop occupé qu’ils sont à ne rien faire. Vous refermez délicatement la porte et prenez une longue inspiration. On refait la même mais en pas pareil." ,
+        "choix" : [
+            ["Si vous décidez d’y retourner en mode bourrin", 9],
+            ["vous préférez rentrer chez vous faire des trucs plus intéressants comme jouer à des jeux vidéos ou brosser un poney, vous avez ma bénédiction mais ce sera Game-Over quand même !", 1],
+            ["vous voulez jouer la carte de l’humour", 6]
+        ]
+    },
+    {
+        "id": 14,
+        "img": "http://www.nioutaik.fr/images/heros/heros18.jpg",
+        "txt": "Excédé, vous empoignez le téléphone et appuyez nerveusement sur le bouton pour décrocher. Prenant un grand coup votre respiration, vous lâchez d’une traite : 'Vous savez l’heure qu’il est ? 8h20 ! A cet heure là n’importe quel gosse qui va à l’école est justement DANS l’école alors vous allez arrêter d’insister avec votre appel à deux balles ! En plus vous faites partie de ces relous qui laissez sonner un téléphone 500 fois ! Parce que, sait on jamais, dès fois qu’on ne l’ai pas entendu les 499 fois précédentes !!!!1' Un blanc de quelques secondes répond à votre cri du cœur puis, une voix rauque se fait entendre à l’autre bout du fil : 'Je suis Jean-Raoul Du Krikidéssoule, recteur d’académie ! Passez moi mon fils immédiatement et croyez moi, vous allez entendre parler de moi'." ,
+        "choix" : [
+            ["vous voulez expliquer votre façon de penser à ce recteur qui se croit tout permis", 16],
+            ["vous préférez faire profil bas et transmettre l’appel", 18]
+        ]
+    },
+    {
+        "id": 15,
+        "img": "",
+        "txt": "Assez ri, vous ne pouvez pas laisser votre autorité être sapée de la sorte. Vous vous approchez du bureau de l’élève insultant, bien décidé à utiliser sur lui la technique ninja ancestrale dites du 'chacal faisandé des plaines'. Vous pointez du doigt un point aléatoire de son bureau et dites, l’air menaçant, 'Qu’est ce que c’est que ce bordel ?' (pas soucis de politesse il est possible de dire 'Qu’est donc cette maison de passe ?'). Comme prévu, le mécréant ne peut s’empêcher de regarder votre doigt. Profitant de la diversion, vous saisissez l’arrière de son crâne et vous projetez sa tête d’un grand coup sec sur le bureau. L’élève, assommé et le pif en sang, gigote spasmodiquement au sol. Pour faire bonne figure, vous lui donnez deux trois petits coups de pied dans le bide selon une autre technique ninja dite de 'la grosse teupu du désert'. Votre besogne terminée, vous parcourez la classe du regard 'Le prochain qui bronche, c’est Bagdad dans ses fesses !'. Le silence terrifié des élèves n’est troublé que par une quinte de toux. Une quinte de toux ? Pris d’un terrible doute, vous faites volte face pour vous retrouver nez à nez avec le proviseur du Lycée ! Son regard désapprobateur ne laisse pas de place au doute, il a assisté à tout la scène. Dommage, une fois en prison pour 'agression sur mineur', c’est dans vos fesses qu’il y aura Bagdad ! GAME OVER." ,
+        "choix" : [
+            ["Recommencer", 1]
+        ]
+    },
+    {
+        "id": 16,
+        "img": "http://www.nioutaik.fr/images/heros/heros16.jpg",
+        "txt": "Vous sentez un afflux de rage monter en vous. De quel droit le recteur se permet t’il de vous parler ainsi ? Le fait d’avoir un poste important lui donne il l’autorisation de perturber votre cours sans que vous ayez votre mot à dire ? Ici, vous êtes le seul maitre à bord et ce n’est pas un rond de cuir le cul vissé au chaud dans un fauteuil loin du front qui va vous apprendre la vie !!  'Ecoutes moi bien espèce de naze !! Tu as du confondre recteur avec rectal pour essayer de me la mettre profond comme ça !!?? Ici c’est MON cours et ton fils n’a pas plus de droit simplement parce que tu ne te sens plus péter avec ton minable pouvoir !' Hurlez vous tellement fort que vous êtes obligé d’éloigner le téléphone de votre bouche pour éviter de le faire saturer.  'C’est inadmissible ! Vous n’avez pas le droit de me parler de la sorte'  'Ggnagnagna c’est inadmissible !! Inadmissible toi même pauvre type ! Qu’est ce que tu vas faire ? Me virer ! Pour quel motif ? Ohlalalala mondieu c’est terrible on m’empêche de passer des coups de fil à mon fils ! C’est de l’abus de pouvoir et ça peut aller très loin surtout si je décide de te refaire le postérieur justice prud’hommale style !!'   'Je, je, euh !'  'Il n’y a pas de 'je je euh' qui tiennent ! A parti de maintenant tu vas m’appeler Monsieur, arrêter de me faire chier et, plus important, tarter la face de ton fils quand il rentrera ce soir pour oser avoir une sonnerie aussi chiatique !!1 Pigé'  'Oui Monsieur, pigé Monsieur !'.  Vous raccrochez et pour faire bonne figure vous balancez le téléphone à travers la fenêtre ! Cette fois, c’est sur, vous avez profondément impressionné vos élèves ! Votre légende est en marche. Cela dit, ce n’est pas le moment de masturber votre turgescent ego, vous avez un cours à assurer" ,
+        "choix" : [
+            ["Continuer", 21]
+        ]
+    },
+    {
+        "id": 17,
+        "img": "http://www.nioutaik.fr/images/heros/heros8.jpg",
+        "txt": "Maintenant que votre classe est à peu près calme, il est grand temps de commencer votre cours. Histoire d’assommer tout le monde, vous avez choisi du costaud, les logarithmes népériens. Armé d’une craie blanche, vous écrivez le titre de la leçon au tableau : 'L’univers incroyable et merveilleux des logarithmes népériens', quand une voix s’élève derrière vous :  'Monsieur ! Eh Monsieur !'. Un élève dans le fond de la classe agite sa main pour tenter d’attirer votre attention.  'Oui ? Vous avez une envie pressente d’aller vous toucher la nouille au toilettes c’est ça ?'  'Non m’sieur, j’ai juste une question, c’est pour qui ce cours ?'  'Euh, pour vous bien sur, quelle question !'  'Non, c’est pour attendre ! Parce que logarithme népérien pour attendre !! Mouahahahaha'   Toute la classe éclate de rire à l’énoncé de ce jeu de mot pitoyable, indigne même d’un bloggeur au pseudonyme à coucher dehors. Comme s’il s’agissait d’une sorte de signal, tous les élèves se remettent à faire n’importe quoi. Certains parlent, d’autres se jettent des objets au visage et deux trois fayots font semblant de vous écouter. Décidemment, la moindre erreur est fatale avec cette classe, vous devez vite la reprendre en main." ,
+        "choix" : [
+            ["vous voulez utiliser la technique de la craie", 4],
+            ["vous voulez surenchérir sur cette blague moisie", 10],
+            ["vous préférez briser psychologiquement l’élève perturbateur", 7],
+            ["vous laissez courir et poursuivez comme si de rien n’était", 3]
+        ]
+    },
+    {
+        "id": 18,
+        "img": "http://www.nioutaik.fr/images/heros/heros4.jpg",
+        "txt": "Vous engueuler avec le recteur d’académie lors de votre premier jour de cours vous semble bien trop risqué. Vous tentez de bafouiller deux trois mots d’excuses pour justifier votre méprise mais le stress rend votre plaidoirie confuse. Pour couper court au supplice, vous vous empressez de rendre le téléphone à son propriétaire qui vous observe, l’air goguenard. L’arrachant presque de vos mains, l’élève dit à haute voix 'Salut Papa ! Nan mais tu as vu ça ? Quel débile ce prof !'.  Vous ressentez un profond abattement. En une fraction de seconde, vous avez perdu toute autorité et la classe entière vous observe avec mépris. Votre foi dans l’éducation nationale vient d’être brisée en vol. Vous qui croyiez que cette institution était exempte du favoritisme des puissants, une utopie égalitaire, le choc est rude. Tremblant, une détermination nouvelle se fait jour peu à peu en vous. Vous êtes devenus prof pour le défi, pour essayer de rendre le monde meilleur à votre petit niveau. Hélas, le monde est corrompu, la main tendu ne suffit plus pour le sauver, il faut maintenant la lui mettre au travers de la gueule !  Un rictus sur le visage, vous fouillez dans votre poche pour en sortir un bandana. Vous le noué autour de votre front pour bien mettre en évidence le 'A' imprimé dessus. C’est décidé, vous allez devenir anarchiste révolutionnaire et tout faire péter dans ce monde de merde qui a brisé vos rêves, à commencer par la tronche du petit con au téléphone !! GAME OVER mais purée ce que ça va être awesome et violent avec probablement plein de cris de marcassins et des attentats à la bombe dans des écoles maternelles." ,
+        "choix" : [
+            ["Recommencer", 1]
+        ]
+    },
+    {
+        "id": 19,
+        "img": "http://www.nioutaik.fr/images/heros/heros5.jpg",
+        "txt": "Comme visiblement, les élèves se fichent pas mal de votre présence, il vous faut trouver un moyen de focaliser leur attention sur autre chose que l’envie de discuter avec leur voisin ou de s’envoyer des objets contondant dans la face. Mais qu’est ce qui peut bien obnubiler un adolescent boutonneux ?  Vous parcourez la classe du regard, un petit sourire en coin. Vos yeux s’arrêtent sur l’appât parfait : une jeune fille habillée avec des vêtements visiblement trouvés au bois de Boulogne et lavés à 120° en machine, bref, le genre de fringues à avoir les lèvres du bas gercés ! Vous lui lancez : 'Hé toi là bas ! Oui toi, machine ! Interrogation surprise au tableau !!1'.   Penaude, l’élève s’approche de votre bureau. Vous gribouillez rapidement un calcul capable de faire saigner le cerveau d’une supercalculateur de météo France, en prenant grand soin de le placer tout en bas du tableau. Vous tendez alors la craie à la jeune fille 'C’est un calcul super simple ! Je te laisse y réfléchir pendant que je poursuis mon cour'. Comme vous l’aviez prévu petit pervers, la demoiselle est obligée de se pencher en avant pour pouvoir écrire et, ce faisant, son string dépasse à la vue de tous.  Etrangement, il n’y a plus un seul cri dans la classe à tel point que vous parvenez même à distinguer clairement le pet d’une bactérie. Votre subterfuge fonctionne à la perfection, vous pouvez reprendre sereinement votre cours" ,
+        "choix" : [
+            ["Continuer", 11]
+        ]
+    },
+    {
+        "id": 20,
+        "img": "http://www.nioutaik.fr/images/heros/heros19.jpg",
+        "txt": "Assez rit, vous ne pouvez pas laisser votre autorité être sapée de la sorte. Vous vous approchez du bureau de l’élève insultant et le regardez droit dans les yeux.   'Ecoute moi bien petit chiure d’amibe ! Si je distingue sous la couche de crasse le truc qui te sert de visage, toi et moi appartenons à la même 'race' ! Donc, si j’ai bien suivi ce que tu as dit, tu veux que je te nique c’est ça ? Tu es à voile et à vapeur et tu ne savais pas comment me l’avouer ?'  'Mais vazy, j’suis pas un payday dé faisses, lol ! Les homosaixuel stro dé gay !'  'Aaah ! Parce qu’en plus tu as un problème avec les homosexuels espèce de petit nazi ? C’est étrange, ce n’est pas ce que ton père m’a dit hier soir au 'Fucking blue boys' !!!1 Mouhahahahahahaha !!1'  De rage, l’élève tente de vous balancer un coup de poing. Malheureusement pour lui, vous saviez comment il allait réagir à vos provocations et vous esquivez sans mal son attaque. Maintenant que vous avez affirmé votre autorité, vous pouvez virer l’élève de votre classe . 'Tu prends immédiatement la porte et je te jure que si tu me prend au pied de la lettre en embarquant la porte de la classe pour faire ton malin, je vais faire pareil avec 'péter la gueule' et te lâcher une grosse caisse directement sur ta sale face !!1 PIGE ???'.  L’élève perturbateur neutralisé et votre autorité établie, vous pouvez commencer votre cours" ,
+        "choix" : [
+            ["Continuer", 17]
+        ]
+    },
+    {
+        "id": 21,
+        "img": "http://www.nioutaik.fr/images/heros/heros14.jpg",
+        "txt": "Vous avez l’impression que ce premier cours n’en finit pas. La classe est à peu près calme et cadrée mais cela ne vous empêche pas d’être tendu comme un string taille 36 entre les fesses d’une obèse. Alors que vous inscrivez 'Lologarithme, l’alliance subtile du silicone et des maths' au tableau, une voix s’élève à votre droite.  'Mais, qu’est ce que vous faites dans ma classe ?'  Surpris, vous faites volte-face pour apercevoir, dans l’encadrement de la porte, un homme en parka marron, sacoche à la main et teint rougeaud du non sportif qui vient de piquer un sprint.  'Je vous retourne la question, vous êtes dans la classe 3F ici' dites vous d’un ton pédant.  'La 3F, mais pas du tout, ici c’est la 5D !'  'Mais qu’est ce que vous me chantez ? Et puis pourquoi vous êtes aussi en retard d’abord ?'  'Et bien, hum, mon chien a mangé ma voiture ! Mais là n’est pas la question ! Ca fait 10 ans que je bosse ici je sais reconnaître les salles et ici c’est la 5D.'  'C’est vrai !' crie en cœur toute la classe  'Je me disais aussi que c’était bizarre comme cours d’art plastique !' ajoute un des élèves du premier rang.  Vous devez vous rendre à l’évidence, vous vous êtes complètement planté. Quelle idée aussi de ne pas faire l’appel et le fait que le jeu ne vous en laisse pas le choix n’est pas une excuse valable ?? Magnanime, le véritable prof des 5D vous indique ou se trouve votre classe, juste un étage au dessus. Tout est à recommencer, mais promis croix de bois croix de fer si je mens je me fais rouler dessus par un char leclerc, cette fois, vous serez avec la bonne classe, rendez vous au 1." ,
+        "choix" : [
+            ["Recommencer", 1]
+        ]
+    },
+    {}
+]
